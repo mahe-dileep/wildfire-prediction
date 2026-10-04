@@ -1,0 +1,4 @@
+data/
+*.tif
+*.hdf5
+venv/
